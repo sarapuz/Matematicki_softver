@@ -1,2 +1,2 @@
-# Matematicki_softveri
-Repozitorij za kolegij Matematički softveri.
+# Matematicki_softver
+Repozitorij za kolegij Matematički softver.
